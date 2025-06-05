@@ -6,7 +6,7 @@
 ### 💻 About Me:
 - 🔭 I’m currently working on: Focused on improving my skills and building better projects 🔧
 - 🌱 I’m currently learning: `Backend Development` and `Java DSA`
-- 👨‍💻 All of my projects are available at: [Portfolio Website](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at: [Portfolio Website](https://portfolio-by-ganesh.netlify.app/)
 - 📫 How to reach me: **ganeshraghav07@gmail.com**
 
 
@@ -19,19 +19,20 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshraghav07&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshraghav07&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshraghav07&show_icons=true&theme=tokyonight" alt="Ganesh's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshraghav07&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
+### 🏆 GitHub Trophies
 
-### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshraghav07&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganeshraghav07&theme=gruvbox&no-frame=true&row=1" />
 </p>
-
 ---
 
 ### 🔗 Connect with me:
