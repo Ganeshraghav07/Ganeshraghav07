@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ganesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Raghav</h1>
 <h3 align="center">A passionate Web Developer & BCA Student from India 🇮🇳</h3>
 
 ---
 
 ### 💻 About Me:
-- 🔭 I’m currently working on: **[Spotify Clone](https://spotifyclone-ganesh.netlify.app)** & **[Amazon Clone](https://amazon-clone-ganesh.netlify.app)**
+- 🔭 I’m currently working on: Focused on improving my skills and building better projects 🔧
 - 🌱 I’m currently learning: `Backend Development` and `Java DSA`
 - 👨‍💻 All of my projects are available at: [Portfolio Website](https://your-portfolio-link.com)
 - 📫 How to reach me: **ganeshraghav07@gmail.com**
-- 📄 Resume: [Click Here](https://your-resume-link.com)
+
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,nodejs,java,expressjs,mongodb" />
 </p>
 
 ---
