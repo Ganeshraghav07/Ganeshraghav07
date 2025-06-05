@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Raghav</h1>
-<h3 align="center">A passionate Web Developer & BCA Student from India 🇮🇳</h3>
+<h3 align="center">A passionate Web Developer </h3>
 
 ---
 
@@ -21,21 +21,21 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshraghav&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshraghav&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshraghav07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshraghav07&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshraghav&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ganeshraghav07&theme=gruvbox" />
 </p>
 
 ---
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="www.linkedin.com/in/ganeshraghav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ganeshraghav07@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
