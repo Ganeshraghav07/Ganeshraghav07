@@ -1,57 +1,68 @@
-# 👋 Hi, I'm Ganesh Kumar
+<h1 align="center">Hi 👋, I'm Ganesh Kumar</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&width=435&lines=BCA+Student;Aspiring+Data+Scientist;ML+%26+AI+Enthusiast;Problem+Solver+%7C+Builder" alt="Typing SVG" />
+</h3>
 
-🎓 BCA Student | 📊 Aspiring Data Scientist | 🤖 ML & AI Enthusiast | 💡 Project Builder
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=ganeshraghav&label=Profile+Visitors&color=blue)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and self-driven BCA student on a journey to become a **Data Scientist**. I love building real-world projects, solving problems using Python, and exploring the world of machine learning and artificial intelligence.
-
-Currently, I’m focused on:
-- 📚 Learning Data Science and Machine Learning in-depth
-- 🧠 Practicing Python, Pandas, NumPy, and SQL
-- 🔬 Building ML & AI projects with real-world applications
-- 🌐 Creating Flask-based web apps for deployment
+🎓 I'm a BCA student with a strong passion for Data Science, Machine Learning, and real-world project building.  
+📊 I'm currently deep-diving into Python, Pandas, SQL, Scikit-learn, and Flask-based ML apps.  
+🤖 I love creating automation tools, learning new tech, and turning ideas into products.
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- **Languages**: Python, C, SQL, HTML/CSS, JavaScript (basic)
-- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Databases**: MySQL
-- **Tools**: Jupyter Notebook, VS Code, Anaconda, Git & GitHub, Flask
-- **Other**: FFmpeg, Web Scraping (BeautifulSoup), CSV & JSON, Deployment (Render)
-
----
-
-## 📁 Projects I'm Working On
-
-- 🔹 **Face Recognition Attendance System** – Python + OpenCV + Flask  
-- 🔹 **Vid Snap AI** – Automatic Reel Generator using text, image, and voice   
-- 🔹 **House Price Prediction** – Machine Learning with model deployment
-
-> Check out my pinned repositories below 👇
+**Languages**: Python, C, SQL, HTML/CSS, JavaScript (basic)  
+**Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+**Tools**: Jupyter Notebook, Anaconda, VS Code, Git & GitHub  
+**Web & Deployment**: Flask, FFmpeg, Render, JSON, MySQL, BeautifulSoup  
 
 ---
 
-## 📌 Goals for 2025
+## 📂 Projects I'm Building
 
-- ✅ Complete advanced ML and deep learning modules  
-- 🧠 Build and publish 5+ data science projects  
-- 💼 Land a data science internship or freelance project  
-- 📈 Start working on a startup idea around AI or automation
+- 🧠 Face Recognition Attendance System (OpenCV + Flask)  
+- 🎬 Vid Snap AI – Automatic reel creator (TTS + Image + Audio)    
+- 🏡 House Price Predictor (ML + Flask app)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshraghav&show_icons=true&theme=tokyonight" alt="Ganesh's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshraghav&theme=tokyonight" alt="Ganesh's GitHub Streak" height="180px"/>
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Build & deploy 5+ real-world DS/ML projects  
+- 🧠 Master advanced ML and DL concepts  
+- 🌐 Publish portfolio website  
+- 📈 Land a Data Science internship or freelance role  
+- 🚀 Work on a startup around AI tools
 
 ---
 
 ## 📬 Connect With Me
 
-- 🌐 [LinkedIn](https://github.com/Ganeshraghav07)
-- 📫 Email: ganeshraghav07@gmail.com
+- 📧 Email: ganeshraghav07@gmail.com
+- 🔗 LinkedIn: https://github.com/Ganeshraghav07
+- 🌐 Portfolio: Coming Soon!
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-Thanks for visiting! 😊
+---
+
+⭐ *Thanks for visiting! Don’t forget to check out my pinned repositories below!*  
