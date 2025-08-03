@@ -1,47 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ganesh Raghav</h1>
-<h3 align="center">Web Developer| Passionate Learner</h3>
+# 👋 Hi, I'm Ganesh Kumar
+
+🎓 BCA Student | 📊 Aspiring Data Scientist | 🤖 ML & AI Enthusiast | 💡 Project Builder
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently improving my web development skills  
-- 🛠️ Tech Stack: HTML, CSS, JavaScript, Git, GitHub  
-- 🎯 Currently learning: Backend Development & Java DSA  
-- 📫 Reach me at: **ganeshraghav07@gmail.com**
+I'm a passionate and self-driven BCA student on a journey to become a **Data Scientist**. I love building real-world projects, solving problems using Python, and exploring the world of machine learning and artificial intelligence.
 
----
-
-### 🧰 Tools & Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,nodejs,expressjs,reactjs,mongodb" />
-</p>
+Currently, I’m focused on:
+- 📚 Learning Data Science and Machine Learning in-depth
+- 🧠 Practicing Python, Pandas, NumPy, and SQL
+- 🔬 Building ML & AI projects with real-world applications
+- 🌐 Creating Flask-based web apps for deployment
 
 ---
 
-### 📊 GitHub Stats
+## 🔧 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshraghav07&show_icons=true&theme=tokyonight" alt="Ganesh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshraghav07&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganeshraghav07&theme=gruvbox&no-frame=true&row=1" />
-</p>
+- **Languages**: Python, C, SQL, HTML/CSS, JavaScript (basic)
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Databases**: MySQL
+- **Tools**: Jupyter Notebook, VS Code, Anaconda, Git & GitHub, Flask
+- **Other**: FFmpeg, Web Scraping (BeautifulSoup), CSV & JSON, Deployment (Render)
 
 ---
 
-### 🔗 Connect with Me
+## 📁 Projects I'm Working On
 
-<p>
-  <a href="mailto:ganeshraghav07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 🔹 **Face Recognition Attendance System** – Python + OpenCV + Flask  
+- 🔹 **Vid Snap AI** – Automatic Reel Generator using text, image, and voice   
+- 🔹 **House Price Prediction** – Machine Learning with model deployment
+
+> Check out my pinned repositories below 👇
+
+---
+
+## 📌 Goals for 2025
+
+- ✅ Complete advanced ML and deep learning modules  
+- 🧠 Build and publish 5+ data science projects  
+- 💼 Land a data science internship or freelance project  
+- 📈 Start working on a startup idea around AI or automation
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 [LinkedIn](https://github.com/Ganeshraghav07)
+- 📫 Email: ganeshraghav07@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+Thanks for visiting! 😊
